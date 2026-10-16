@@ -1,0 +1,3 @@
+The document analyser project stores files in memory.
+The health check lives at /api/health.
+Allowed uploads are PDF, TXT, PNG, and JPG.
